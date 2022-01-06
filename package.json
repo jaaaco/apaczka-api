@@ -1,5 +1,6 @@
 {
   "name": "@jaaaco/apaczka-api",
+  "private": false,
   "version": "7.1.0",
   "description": "Apaczka.pl API Wrapper (Polish Parcel Service Broker)",
   "license": "MIT",
