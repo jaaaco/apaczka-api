@@ -1,0 +1,1 @@
+# Apaczka API TS Wrapper
