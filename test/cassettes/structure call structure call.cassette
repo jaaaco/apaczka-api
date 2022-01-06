@@ -1,0 +1,49 @@
+[
+  {
+    "scope": "https://www.apaczka.pl:443",
+    "method": "POST",
+    "path": "/api/v2/service_structure/",
+    "status": 200,
+    "response": [
+      "830f1500e4b2a9ffa7eb8e4ebf908c84dd6f24904a6c5cf24af3ac61e3c8809691c42390f1f06bef425aed5f6e6231bd7bffa649c493f999cedc500d75a523629994de5bba915883c62a0922f44688a88c66b0bd0a72a4b9b6c8f4729fc279f4ad13cb50ca405cc2a180580a118856d3c4f2535c9a214e2c7f7eeeeb41176229940884c19ac452bc663bd8793405da4204a2a04aff25db1fbcae375bc6b54d5369b2154e250251704dceeb7c6377ac60b607cf8782d9263baea23eb7580a2902f13fbf4f6a03755d02bc36c2bb977c34969c831dfe250bfa7ff83f1de4fa572b959c9c5a288cc67fe520305a57c1a0c2a594aff46c9cf70181715456b542042c8072bdc15c9cdf4c31517733c96047bae01473d0b6e73f212ab42786d59425bef4a30cb2d6941eae20b643a73da0996468981a0307026014ed294eb66d4f00cb681faa4be9f357a5a6d1e432b809e57b2faa2a3a5986dd4bb4dd439cc590e9bc6c1bc6bf91388b830b2879380c79d8c7590cb7153aa773bcf6946476587f18c62d0c776c499f0cc76692b839a38d11a90e626ab5d19870b4a28e71ec6fb11c49df01c61a477d2415",
+      "85c044c4411e7ee875cffdc8609f5bab4720f8d1aebdd073644c531c0d7701a56fecb39fc70cf3a1e41a3d3c9a8c9d812edae32a5beff6c4bb8814450abaf3c606b774ccd3e791a44ea304ba299420da05a47cd2b567af6d4546458ca1621cabeceb56bc584e58f4fa60832f9f2f307451fc902e867c5ff1431aea988f003b5612ea53e1279f2e063be804c63a160f5f80c5038149bf6a7e1552fe77a0e64b29e10a42de6d4c3b97ad3377b799f1437ac8a2ed6da2dd48f96885f279f7d93d6907b7684ffcf1e33e27df04bddc78e9b397e8bb2486c11f2a5512a34ff9b423c997713e781cd07512c6f3ce6489af6f7fec23a10de2306c4fd53555c04f441f9094aeb1e4607a20fd27627c130cc909d7e1ea6917c5001b3c1d45d425683625d8a777312ca36ad69d70b840f1c579d73591e360b45df96cd47a9afd6a0ff7151fb1ea3b85b99c23b65f0db4db5033857b3925391baefb47d3cb60a2906ce4df148b59827f332558445869aa73d72278a28e14e69aa19c8275ee3edd29032c871150b95a454df98a1dba3c714ecffd67fa1a7d8d9e5fb78fc95604d6a70897ae172fc3aaba4a3e301fb72c4ad3a194db70b4690f5455351a43f09feb2149d39768b5124f8c55a6e771fb4ea67590f2493baf73af36c9ed43b27a3df9052d9d600c57a726aa8f967dda6f2c7ab9d9ae0568224a9c1306b8c0a3e639daf81d88fb29f68a9c587e0aa5c4f253f8be21b11447e64a901bfbd159f65070d9d664fcaf56cab751171ae6f22213bb04422d36fb6a62761e3b840e1c1fd9ff6aa5528bf069e30aa1eb8f164d9fbf436307eaf8572bd50c8d2e5bf16e38a16d6c2b9fb818b4c1fcbd359d238ade7519771a0bae35194db07bd9894b202673f993d7cedb767ae446139c93bdba5fad54e3b03de1f8ee99ec21e3ca959acee2128879b8d51e0d9b5e2e5083273b8f947171c6a180012aed3cd584c091f1091a3bf49da6415329b80f2e3470d7435121f88ecf74ce09763deca8525f374c707e0b96b0d303e667dc0137fa68ded8d6989f113c55f4c646e783c1cd671750b0d58df9e603194d75ab3a17bbe6665658a0d10406a1adb9d3045df551e80c9d193bd925100de6259ee8807fc64f913eeef62482240aba2293fe240803769a2c9ecf5c1496a339ec5f0f1d7464dd5943838d26cb1d9d0318b0c1923b34041d94dc90b5812028a786c1ae3c9b121072c62cbafdf11cc181893c3f61032747e8a0b1ec3c3758f00614efc627c75c93313d94683d1b60b0746a2bb4e6965dbac123cb57f098bf0770a401bade791167eef377a08accfd4a50b547e8e08d2bcd0d9692907b698c2c4a93bd1020915284cfeb9e3bb460101aac28d704496b19181a2e9cc74e13a8507ecce535dcd0d03c3bbc13343c20f0d1f66e9bc1be0752cf3a7da5d2797e33a154eff401487f370ed9f647f2f27d97aebf52c32c2006b65f920ae58792cf0d3fdc3c37dde1e6d9b5c2c04baf16e80c54f6f3142ef2ec20d4921473a5b2549cc5e277209ab33ac0eac99fe2763db2a5a982239566e1d04592aaec8f4f3d77497a570f24519e0cf46731361f0c99e91ba171dfb0c39a8b4153653441c1d0b4a6f42d183745360317d6e8c4532b6d3c9a8ac57c6882b6d580a6ef706a6ac0d56a478e6b71b95c2e03"
+    ],
+    "rawHeaders": [
+      "Date",
+      "Thu, 06 Jan 2022 10:16:16 GMT",
+      "Content-Type",
+      "application/json; charset=utf-8",
+      "Transfer-Encoding",
+      "chunked",
+      "Connection",
+      "close",
+      "Expires",
+      "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Cache-Control",
+      "no-store, no-cache, must-revalidate",
+      "Pragma",
+      "no-cache",
+      "Set-Cookie",
+      "wwwApaczka=67ve3p8revaq1o3fump0jdm6ja; path=/;SameSite=none; secure",
+      "Vary",
+      "Accept-Encoding",
+      "Strict-Transport-Security",
+      "max-age=63072000; includeSubdomains;",
+      "CF-Cache-Status",
+      "DYNAMIC",
+      "Expect-CT",
+      "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+      "Report-To",
+      "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=HIVbAmjugofZdgvS0TtoPApHCkUhiF3Vj5Z9b9BosL4w1vH2jLBzL0maLXM1a7WK7bejVupISN6BF1M5Wb2RuNLpw2m8sGyKp1EkYwqHqLafPXXMfJrYziRWiR3rDduk\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+      "NEL",
+      "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+      "Server",
+      "cloudflare",
+      "CF-RAY",
+      "6c9430a17e63704f-FRA",
+      "Content-Encoding",
+      "br"
+    ],
+    "responseIsBinary": false
+  }
+]

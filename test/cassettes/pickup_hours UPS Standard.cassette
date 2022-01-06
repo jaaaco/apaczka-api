@@ -1,0 +1,48 @@
+[
+  {
+    "scope": "https://www.apaczka.pl:443",
+    "method": "POST",
+    "path": "/api/v2/pickup_hours/",
+    "status": 200,
+    "response": [
+      "03b30900c442dda6fde69408fe5beb400d339bffb3f918f76db3094c70a0c76903da9b1fd75551592fbfc1b2142348ecd69b24083b8d8583b13d1f12cda6fbbeb8dec6b7fb15a48460b8e1a000010c5a4f06f4c5e978bd8d77c3e971360741082d9fcf836175bc5faea02f94504a13521359d017b3f16d0e7a4132dc879040ddef83c341b03c1f0cb7f57ebeb81cf720883c0931e4b72308329b89df9f2ff518ef40eacf303b3ab45b71c5ae56715d25bb956073504663e671c591d9a9e9c338f2ab257d68ab5407644772fd6af2cc6c002657ae1e63c2a46d20d4e3aa39ffcab0aa37ec0af46cd637d9d8afb74ec7b63c8e28859eb7b06a614df3d4e6283973242bb6f469fb380b4afd5c85308eaa5587e591ca4b37f5a65eaa570a1e3640d300cc22d67dff4351d9bf239348b3b6d6b37d3fd0c3b0686d68ca8a6787e7c11409f7d82ee9b6d8ffb3f88726c58f2b853c3e04af2b127416aa0746255ace19442ea07c6a2105a89e4f2861feffbf0103"
+    ],
+    "rawHeaders": [
+      "Date",
+      "Thu, 06 Jan 2022 10:39:10 GMT",
+      "Content-Type",
+      "application/json; charset=utf-8",
+      "Transfer-Encoding",
+      "chunked",
+      "Connection",
+      "close",
+      "Expires",
+      "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Cache-Control",
+      "no-store, no-cache, must-revalidate",
+      "Pragma",
+      "no-cache",
+      "Set-Cookie",
+      "wwwApaczka=eu96gjm459qcnuvl2pduml4ph8; path=/;SameSite=none; secure",
+      "Vary",
+      "Accept-Encoding",
+      "Strict-Transport-Security",
+      "max-age=63072000; includeSubdomains;",
+      "CF-Cache-Status",
+      "DYNAMIC",
+      "Expect-CT",
+      "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+      "Report-To",
+      "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=eTIx%2FjQysFMvg1BdI1ZShssW4uZjMspqf%2FleRDyv6jR%2F1TiF1fg%2FBuO1468iOqdExKzw9YhSci7NV0ldih7plCPw0BkQJsZIrua0q5fwLvgEk1ZP9ngnHX%2BL6w0JTjzH\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+      "NEL",
+      "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+      "Server",
+      "cloudflare",
+      "CF-RAY",
+      "6c94522b2b14431b-FRA",
+      "Content-Encoding",
+      "br"
+    ],
+    "responseIsBinary": false
+  }
+]
